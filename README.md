@@ -65,8 +65,7 @@ The main goal of this project is to demonstrate practical understanding of:
 my-ml-project/
 │
 ├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks
-│   └── Project.ipynb
+├── Project.ipynb
 ├── README.md
 ├── requirements.txt
 ```
